@@ -1,1 +1,2 @@
 nama: bernard very
+url: http://bernard-very.com
